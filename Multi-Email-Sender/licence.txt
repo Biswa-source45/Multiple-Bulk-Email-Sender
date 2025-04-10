@@ -1,0 +1,38 @@
+Multi Email Sender - User Manual
+
+Version: 1.0
+Author: Biswabhusan Sahoo
+
+Overview:
+-----------
+Multi Email Sender is a desktop-based application built using Python and Tkinter.
+It allows you to send customized emails (HTML-based) to multiple recipients at once,
+with optional PDF attachment.
+
+How to Use:
+------------
+1. Enter the student's name(s) separated by commas.
+2. Enter the corresponding email address(es) separated by commas (must be @gmail.com).
+3. Enter the subject of the email.
+4. Write the body of the email.
+5. Click on "Attach" to add a PDF file (optional).
+6. Click on "Send Mail" to send emails to all provided addresses.
+
+Features:
+----------
+✔ HTML-formatted personalized email template
+✔ Optional PDF attachment
+✔ Simple CSV logging of sent/failed emails
+✔ GUI-based interface, beginner-friendly
+
+Notes:
+-------
+- Make sure you have an active internet connection.
+- The application uses Gmail SMTP, so only @gmail.com addresses are allowed.
+- The sender email and app password must be valid (check your Gmail account for App Passwords).
+
+Support:
+----------
+For help, contact: https://www.linkedin.com/in/biswabhusan-sahoo-22b704292/
+
+© 2025 developed by Biswabhusan sahoo. All rights reserved.
