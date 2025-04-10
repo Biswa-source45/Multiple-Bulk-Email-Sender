@@ -9,10 +9,11 @@ import os
 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-EMAIL_ADDRESS = "litcamsystem01@gmail.com"
-EMAIL_PASSWORD = "gxlz dvgc gayy sprl"
+EMAIL_ADDRESS = "litcamsystem01@gmail.com" #use your email here
+EMAIL_PASSWORD = "---- ---- ---- ----" #use your 16 digit application password here
 
-def get_html_template(user_name, body_text):
+def get_html_template(user_name, body_text): 
+    #change the email template according you , this is a educational platform template
     return f"""
     <!DOCTYPE html>
     <html>
