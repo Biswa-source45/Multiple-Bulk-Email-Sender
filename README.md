@@ -76,7 +76,7 @@ The file `mail_data.csv` will be structured like this:
 
 ## 📂 Exe file
 
-- The exe file i have built is insied the dist zip file unzip it to check it out
+- The exe file i have built is inside the dist zip file unzip it to check it out
 
 ---
 
